@@ -1,3 +1,5 @@
+/* This is the code for getting the field parameters from sensors on the field in  the cloud platform*/
+
 #include <SoftwareSerial.h>   //Header file to create RX & Tx 
 #include <stdlib.h>
 #include <DHT.h> //  DHT.h library
